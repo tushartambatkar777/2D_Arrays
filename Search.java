@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class SearchinMatrix {
+public class Search {
   public static boolean staircaseSearch(int matrix[][], int key) {
     int row = 0, col = matrix[0].length-1;
 
